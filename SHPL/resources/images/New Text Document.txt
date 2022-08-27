@@ -1,0 +1,1 @@
+add youre images here as 1.jpg ,2.png etc etc , check the image extenshions properly and add the proper extensuions in the code too.
